@@ -1,4 +1,4 @@
 # Apna-College
 This is my first demo repository
 <br>
-Auther-Zeeshan
+Auther-Zeeshan (Apna College)
